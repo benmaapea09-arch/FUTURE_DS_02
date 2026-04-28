@@ -120,5 +120,3 @@ The Power BI dashboard includes:
 - Churn reasons and segmentation  
 
 ---
-
-## 📁 Project Structure
